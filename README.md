@@ -20,15 +20,6 @@ This React application is an online classroom portal that incorporates various s
 - Configured WebPack to run on Node, for rapid development
 - Created unit tests with Jasmine and Karma
 
-### Features and Services
-###### end-to-end service (developed by)
-- Forum ([Alex](#developers))
-- User ([Cory](#developers))
-- Login & Sign Up ([DeShon](#developers))
-- Exam ([Isaiah](#developers))
-- Curriculum ([Jordan](#developers))
-- Admin  ([Justin](#developers))
-
 ### Technologies
 - React JS
 - Express JS
@@ -57,11 +48,3 @@ The webhost will run on localhost:3000
 
 ##### File Structure
 Store your components in their respected folders under app/dev and they we automatically transpiled into their respected bundle.
-
-### Developers
-- Alex Redmon
-- Cory Davenport
-- DeShon Thomas-Wright
-- Isaias Cervantes
-- Jordan Clarke
-- Justin Atkinson
